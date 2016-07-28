@@ -1,0 +1,9 @@
+---
+title: "Otro nuevo post"
+layout: post
+date: 2016-07-20 
+---
+
+
+
+esto es y seguiría siendo un silly post.  
