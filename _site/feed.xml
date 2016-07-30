@@ -5,9 +5,31 @@
     <description>Blogging about stuffs</description>
     <link>blog url//</link>
     <atom:link href="blog url//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jul 2016 04:28:14 -0400</pubDate>
-    <lastBuildDate>Thu, 28 Jul 2016 04:28:14 -0400</lastBuildDate>
+    <pubDate>Sat, 30 Jul 2016 01:44:55 -0400</pubDate>
+    <lastBuildDate>Sat, 30 Jul 2016 01:44:55 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Otro de los tests</title>
+        <description>&lt;p&gt;&lt;strong&gt;Y&lt;/strong&gt; este post, es otro de los muchos&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jul 2016 00:00:00 -0400</pubDate>
+        <link>blog url//2016/07/29/yet-another.html</link>
+        <guid isPermaLink="true">blog url//2016/07/29/yet-another.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>And yet another post</title>
+        <description>&lt;p&gt;esto es &lt;em&gt;una de las tantísimas pruebas&lt;/em&gt; para &lt;strong&gt;ver&lt;/strong&gt; los resultados.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Jul 2016 00:00:00 -0400</pubDate>
+        <link>blog url//2016/07/28/another.html</link>
+        <guid isPermaLink="true">blog url//2016/07/28/another.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Otro nuevo post</title>

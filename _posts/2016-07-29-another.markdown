@@ -1,0 +1,7 @@
+---
+title: "And yet another post"
+layout: post
+date: 2016-07-28
+---
+
+esto es _una de las tantísimas pruebas_ para **ver** los resultados. 
